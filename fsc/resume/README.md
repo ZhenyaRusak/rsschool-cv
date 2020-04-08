@@ -1,4 +1,4 @@
-# Rusak Zhenya, designer 	:woman_technologist:
+# Rusak Zhenya, designer 
 
 **Study**: BSU, Faculty of Sociocultural Communications, 3d course
 
