@@ -22,6 +22,6 @@ Figma |
   
  **Example of work**:
  
-![Example - icons](/biblioteka_icons-min.png)
+![Example - icons](./biblioteka_icons-min.png)
 
 
