@@ -10,6 +10,7 @@
             
 **Skills**: 
  Programs for design| Web knowledge
+ ------------ | -------------
 Adobe Photoshop | HTML 5
 Adobe Illustrator | CSS 3
 Adobe After Effects | Bootstrap
