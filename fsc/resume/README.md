@@ -9,11 +9,11 @@
   * march 2020 - april 2020 — Advertising agency, *designer*
             
 **Skills**: 
- * Adobe Photoshop
- * Adobe Illustrator
- * Adobe After Effects
- * Figma
- * HTML 5 & CSS 3
+ Programs for design| Web knowledge
+Adobe Photoshop | HTML 5
+Adobe Illustrator | CSS 3
+Adobe After Effects | Bootstrap
+Figma | 
  
  **Contacts**: 
   * gmail: zhenyarusak3@gmail.com
